@@ -31,7 +31,6 @@ public class LibraryManager {
                 members.remove(i);
                 return true;
             }
-
         }
         return false;
     }
