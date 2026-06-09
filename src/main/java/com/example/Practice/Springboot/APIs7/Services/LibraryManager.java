@@ -1,7 +1,8 @@
-package com.example.Practice.Springboot.APIs7;
+package com.example.Practice.Springboot.APIs7.Services;
+
+import com.example.Practice.Springboot.APIs7.Entities.LibraryMember;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class LibraryManager {
 

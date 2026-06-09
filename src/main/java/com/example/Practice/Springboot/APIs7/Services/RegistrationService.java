@@ -1,5 +1,6 @@
-package com.example.Practice.Springboot.APIs7;
+package com.example.Practice.Springboot.APIs7.Services;
 
+import com.example.Practice.Springboot.APIs7.Entities.EventRegistration;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Service;
 

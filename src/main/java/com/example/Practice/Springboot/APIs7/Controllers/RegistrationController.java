@@ -1,5 +1,6 @@
-package com.example.Practice.Springboot.APIs7;
+package com.example.Practice.Springboot.APIs7.Controllers;
 
+import com.example.Practice.Springboot.APIs7.Services.RegistrationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.RequestParam;
